@@ -3,4 +3,4 @@
 * Link da Pagina DevPost
 > <a href="https://jlmsdevpost.netlify.app/">DevPost</a>
 
-<img src="../devPosts/devPost.gif" width="768">
+<img src="devPost.gif" width="768">
